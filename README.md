@@ -1,3 +1,4 @@
+🌐 **Live Portfolio:** [Visit My Portfolio](https://yashaswini-portfolio-37il-pkzc0fo7g-yashaswinia-12s-projects.vercel.app/)
 # Yashaswini A | Personal Portfolio
 
 Welcome to my personal portfolio! I am a **2026 Information Science and Engineering graduate** from Acharya Institute of Technology, Bangalore, with an interest in Software Development, Artificial Intelligence, Machine Learning, and Full Stack Development.
