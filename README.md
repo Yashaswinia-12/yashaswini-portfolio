@@ -16,15 +16,12 @@ This portfolio showcases my technical skills, academic projects, internship expe
 **Programming Languages**
 - Java
 - Python
-- JavaScript
 - SQL
 
 **Web Technologies & Frameworks**
-- HTML, CSS
+- HTML
 - React.js
 - Django
-- Node.js
-- Express.js
 
 **Databases**
 - MySQL
@@ -33,9 +30,6 @@ This portfolio showcases my technical skills, academic projects, internship expe
 **AI & Machine Learning**
 - Machine Learning
 - Deep Learning
-- CNN
-- Scikit-learn
-- TensorFlow
 
 **Tools & Platforms**
 - Git & GitHub
